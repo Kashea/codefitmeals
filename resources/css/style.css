@@ -1,6 +1,4 @@
-/*
-Orange color: #e67e22
-*/
+
 /* Colors
 
 - Primary : #7fb83e
@@ -187,17 +185,17 @@ input[type=submit] {
 .btn:active,
 input[type=submit]:hover,
 input[type=submit]:active {
-  background-color: #f2f8ec;
+  background-color: #72a638;
 }
 
 .btn-full:hover,
 .btn-full:active {
-  border: 1px solid #f2f8ec;
+  border: 1px solid #72a638;
 }
 
 .btn-ghost:hover,
 .btn-ghost:active {
-  border: 1px solid #f2f8ec;
+  border: 1px solid #72a638;
   color:#fff;
 }
 
